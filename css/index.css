@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Shadows+Into+Light&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Teko&display=swap');
+
+div.friday {
+    padding-left: 25%;
+}
+.friday__deal {
+    background: url(../img/friday.png);
+    width: 860px;
+    height: 425px;
+    position: absolute;
+}
+
+.friday-subtitle {
+    font-family: 'Shadows Into Light';
+    text-align: center;
+    font-size: 21px;
+}
+
+.friday-title {
+    font-family: 'Teco';
+    font-size: 95px;
+    text-align: center;
+}
