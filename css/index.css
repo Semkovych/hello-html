@@ -9,17 +9,42 @@ div.friday {
     background: url(../img/friday.png);
     width: 860px;
     height: 425px;
-    position: absolute;
 }
 
 .friday-subtitle {
     font-family: 'Shadows Into Light';
     text-align: center;
     font-size: 21px;
+    padding-top: 55px;
+
 }
 
 .friday-title {
     font-family: 'Teco';
     font-size: 95px;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.friday-deal-sale {
+    font-family: 'Open Sans';
+    font-size: 19px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.friday-button {
+    font-family: 'Open Sans';
+    font-size: 12px;
+    background-color: black;
+    font-weight: bold;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 12px;
+    justify-content: center;
+    margin-top: 20%;
+    margin-left: 42%;
+    text-decoration: none;
 }
